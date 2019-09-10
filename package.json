@@ -1,0 +1,9 @@
+{
+  "name": "chanaka.org",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "author": "Chanaka Sandaruwan <chanakasan@gmail.com>",
+  "license": "Apache-2.0",
+  "private": true
+}
